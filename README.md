@@ -1,2 +1,2 @@
-# repositorio2.0
-Realizei um novo repositório aplicando meus conhecimentos em HTML, CSS, Javascript e React
+# Portfolio2.0
+Este repositório apresenta um projeto desenvolvido com HTML, CSS, JavaScript e React, destacando a aplicação de conceitos de front-end, criação de interfaces responsivas e organização de componentes.
